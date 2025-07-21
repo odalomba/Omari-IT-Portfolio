@@ -28,5 +28,5 @@ Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlott
 
 [gmail]: mailto:odalomba@gmail.com
 [linkedin]: https://www.linkedin.com/in/omari-dalomba-9628961b9
-[resume]: (https://docs.google.com/document/d/1H3tW2c31Q_o9_qD8GsaN9NyMsI75b1WZ/edit?usp=sharing&ouid=104874372020377539218&rtpof=true&sd=true)
+[resume]: https://docs.google.com/document/d/1H3tW2c31Q_o9_qD8GsaN9NyMsI75b1WZ/edit?usp=sharing&ouid=104874372020377539218&rtpof=true&sd=true
 
