@@ -22,7 +22,7 @@ Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlott
 
 <h2> 🤳 Connect with me and Resume </h2>
 
-[<img align="left" alt="OmariDalomba | LinkedIn" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
+[<img align="left" alt="OmariDalomba | linkedin" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 [<img align="left" alt="OmariDalomba | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
 [<img align="left" alt="OmariDalomba | Resume" width="22px" src="https://img.icons8.com/color/48/resume.png" />][resume]
 
