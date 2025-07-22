@@ -6,7 +6,7 @@ Welcome to my Cybersecurity / IT Gihub Portfolio. Here you will discover various
 
 ## About Me
 
-Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlotte Cybersecurity Bootcamp, and a holder of the CompTIA Security + certfication. I have hands-on experience in ethical hacking, network defense and threat analysis. With a strong work ethic and minset focused on continuous growth, I strive to get 1% bette every day. 
+Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlotte Cybersecurity Bootcamp, and a holder of the CompTIA Security + certfication. I have hands-on experience in ethical hacking, network defense and threat analysis. With a strong work ethic and minset focused on continuous growth, I strive to get 1% better every day. 
 
 ## 👨‍💻 Cybersecurity Projects:</h2>
 - <b> Linux Hardening Project </b>
