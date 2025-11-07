@@ -8,7 +8,7 @@ Welcome to my Cybersecurity / IT Gihub Portfolio. Here you will discover various
 
 Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlotte Cybersecurity Bootcamp, and a holder of the CompTIA Security + certfication. I have hands-on experience in ethical hacking, network defense and threat analysis. With a strong work ethic and minset focused on continuous growth, I strive to get 1% better every day. 
 
-## Cybersecurity Projects:</h2>
+## IT & Cybersecurity Projects:</h2>
 - <b> Linux Hardening Project </b>
   - [Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
   - [Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
