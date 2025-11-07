@@ -8,7 +8,7 @@ Welcome to my Cybersecurity / IT Gihub Portfolio. Here you will discover various
 
 Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlotte Cybersecurity Bootcamp, and a holder of the CompTIA Security + certfication. I have hands-on experience in ethical hacking, network defense and threat analysis. With a strong work ethic and minset focused on continuous growth, I strive to get 1% better every day. 
 
-## 👨‍💻 Cybersecurity Projects:</h2>
+## Cybersecurity Projects:</h2>
 - <b> Linux Hardening Project </b>
   - [Baseline Security and Access Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%201%20Hardening%20a%20Linux%20Server%20.pdf)
   - [Hardening System Configuration](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/Linux/Part%202%20Hardening%20system%20configurations%20.pdf)
@@ -20,7 +20,7 @@ Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlott
 - <b>Keylogger Project</b>
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
 
-<h2> 🤳 Connect with me and Resume </h2>
+<h2> Connect with me and Resume </h2>
 
 [<img align="left" alt="OmariDalomba | linkedin" width="22px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
 [<img align="left" alt="OmariDalomba | Gmail" width="22px" src="https://img.icons8.com/color/48/gmail-new.png" />][gmail]
