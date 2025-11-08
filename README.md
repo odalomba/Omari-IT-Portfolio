@@ -20,7 +20,7 @@ Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlott
 - <b>Keylogger Project</b>
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
 - <b>System Administration Projects</b>
-  - [Helpdesk Delegation Lab](
+  - [Helpdesk Delegation Lab](https://github.com/odalomba/Omari-Cybersecurity-Portfolio/blob/main/System%20Administration/Helpdesk%20_Delegation_%20Lab.pdf)
 
 <h2> Connect with me and Resume </h2>
 
