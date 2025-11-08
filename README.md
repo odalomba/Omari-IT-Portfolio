@@ -19,6 +19,8 @@ Im a motivated Cybersecurity and IT professional, a graduate of the UNC Charlott
   - [Defensive Security (Splunk)](https://docs.google.com/presentation/d/1bmUWcOTWq3zfS8MzULgFFhNEnZWZ380uRalZQOQmJ1I/edit?slide=id.g630a814dc5_0_53#slide=id.g630a814dc5_0_53)
 - <b>Keylogger Project</b>
   - [Keylogger using python project](https://docs.google.com/presentation/d/1SOl5JqZNzcJpuHoxMjamw7DZUCtWgsDkEZhMY9vAc8E/edit?slide=id.p#slide=id.p)
+- <b>System Administration Projects</b>
+  - [Helpdesk Delegation Lab](
 
 <h2> Connect with me and Resume </h2>
 
